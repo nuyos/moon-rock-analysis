@@ -42,19 +42,22 @@
 ## 📈 Visualization
 
 ### 1. 임무별 샘플 총합  
-![Mission Total Weight](88d74f0a-ba34-4f21-8bfe-c54254c713a9.png)  
+<img width="800" height="500" alt="mission_total_weight" src="https://github.com/user-attachments/assets/726678b5-40c3-4b3d-87c3-459a31391d66" />
+
 👉 Apollo 17 임무에서 가장 많은 샘플을 수집했으며, Apollo 15~17 임무가 전체 샘플의 대부분을 차지한다.  
 
 ---
 
 ### 2. 암석 종류별 비율  
-![Rock Type Ratio](50aec014-f02a-4e00-a20d-8dfc32cd1e49.png)  
+  <img width="600" height="600" alt="rock_type_ratio" src="https://github.com/user-attachments/assets/9fc925ae-0c01-4a1b-ae91-02f69d348a7d" />
+
 👉 Breccia(45%)와 Basalt(25%)가 전체 샘플의 70% 이상을 차지하며, 이는 향후 탐사에서도 **주요 채취 대상**이 될 가능성을 보여준다.  
 
 ---
 
 ### 3. Remaining (kg) 비교  
-![Remaining by Mission](a10e007f-65a8-4973-a2f0-e7ff6b6b8f67.png)  
+<img width="640" height="480" alt="remaining_by_mission" src="https://github.com/user-attachments/assets/e619a5cf-87cb-40e8-bdd8-83f28e93d364" />
+
 👉 임무별 샘플의 보존 상태(Pristine %)를 고려했을 때, **Apollo 16과 17 임무 샘플이 연구 가치가 가장 높음**을 확인할 수 있다.  
 
 ---
